@@ -107,7 +107,7 @@ create index idx_col_name1_name2... on table[col_name1, col_name2]
 
   ​	B树原理详解：https://zhuanlan.zhihu.com/p/59788528
 
-  ​	B树在一个节点内存储多份数据，所以可以
+  ​	B树在一个节点内存储多份数据，所以可以极大增强树在每层所存储的数据量，进而减少树的深度
 
 - 
 
